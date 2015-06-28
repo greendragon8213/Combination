@@ -1,0 +1,12 @@
+﻿<Window x:Class="CombinationProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="223.685" Width="501.315">
+    <Grid>
+        <WrapPanel Name="wrapPanel"></WrapPanel>
+        <Button Content="Start processing" HorizontalAlignment="Left" VerticalAlignment="Top" Width="96" Margin="201,122,0,0" Name="Start" Click="Start_Click" Height="31"/>
+        <Button Content="Add symbol" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="13,93,0,0" Name="AddSymbol" Click="AddSymbol_Click"/>
+        <Label Content="" Name="CombCountLB" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="189,158,0,0" Width="152"/>
+
+    </Grid>
+</Window>

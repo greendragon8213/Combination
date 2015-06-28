@@ -1,0 +1,26 @@
+D:\freelancehunt\CombinationProject\CombinationProject\bin\Debug\CombinationProject.exe.config
+D:\freelancehunt\CombinationProject\CombinationProject\bin\Debug\CombinationProject.exe
+D:\freelancehunt\CombinationProject\CombinationProject\bin\Debug\CombinationProject.pdb
+D:\freelancehunt\CombinationProject\CombinationProject\obj\Debug\CombinationProject.csprojResolveAssemblyReference.cache
+D:\freelancehunt\CombinationProject\CombinationProject\obj\Debug\MainWindow.baml
+D:\freelancehunt\CombinationProject\CombinationProject\obj\Debug\MainWindow.g.cs
+D:\freelancehunt\CombinationProject\CombinationProject\obj\Debug\App.g.cs
+D:\freelancehunt\CombinationProject\CombinationProject\obj\Debug\CombinationProject_MarkupCompile.cache
+D:\freelancehunt\CombinationProject\CombinationProject\obj\Debug\CombinationProject.g.resources
+D:\freelancehunt\CombinationProject\CombinationProject\obj\Debug\CombinationProject.Properties.Resources.resources
+D:\freelancehunt\CombinationProject\CombinationProject\obj\Debug\CombinationProject.csproj.GenerateResource.Cache
+D:\freelancehunt\CombinationProject\CombinationProject\obj\Debug\CombinationProject.exe
+D:\freelancehunt\CombinationProject\CombinationProject\obj\Debug\CombinationProject.pdb
+D:\freelancehunt\Combination WPF\CombinationProject\bin\Debug\CombinationProject.exe.config
+D:\freelancehunt\Combination WPF\CombinationProject\obj\Debug\CombinationProject.exe
+D:\freelancehunt\Combination WPF\CombinationProject\obj\Debug\CombinationProject.pdb
+D:\freelancehunt\Combination WPF\CombinationProject\bin\Debug\CombinationProject.exe
+D:\freelancehunt\Combination WPF\CombinationProject\bin\Debug\CombinationProject.pdb
+D:\freelancehunt\Combination WPF\CombinationProject\obj\Debug\CombinationProject.csprojResolveAssemblyReference.cache
+D:\freelancehunt\Combination WPF\CombinationProject\obj\Debug\MainWindow.baml
+D:\freelancehunt\Combination WPF\CombinationProject\obj\Debug\MainWindow.g.cs
+D:\freelancehunt\Combination WPF\CombinationProject\obj\Debug\App.g.cs
+D:\freelancehunt\Combination WPF\CombinationProject\obj\Debug\CombinationProject_MarkupCompile.cache
+D:\freelancehunt\Combination WPF\CombinationProject\obj\Debug\CombinationProject.g.resources
+D:\freelancehunt\Combination WPF\CombinationProject\obj\Debug\CombinationProject.Properties.Resources.resources
+D:\freelancehunt\Combination WPF\CombinationProject\obj\Debug\CombinationProject.csproj.GenerateResource.Cache
